@@ -8,7 +8,7 @@
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 
-* 📙 **Formación académica**: Actualmente estoy finalizando la Tecnicatura en Programación en la UTN.
+* 📙 **Formación académica**: Título de Técnico en Programación otorgado por la Universidad Tecnológica Nacional (UTN).
   
 * 💻 **Proyectos personales**: Desarrollo proyectos propios con el objetivo de seguir fortaleciendo y aplicando mis habilidades técnicas.
   
