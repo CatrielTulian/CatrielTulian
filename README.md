@@ -39,7 +39,6 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Github"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="VS"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="VSC"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain.svg" width="40" height="40" alt="Docker"/>
     <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" width="40" height="40" alt="Mysqlworkbench"/>
 <br>
 <h1 align="center">Contáctame 📬</h1>
@@ -48,19 +47,3 @@
 <a href="https://www.linkedin.com/in/catriel-tulian-8b5536321/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:Catrieltulian123@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Catrieltulian123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/CatrielTulian" target="blank"><img align="center" src="https://img.shields.io/badge/Catriel Tulian-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<!--## Hi there 👋
-
-
-**CatrielTulian/CatrielTulian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
